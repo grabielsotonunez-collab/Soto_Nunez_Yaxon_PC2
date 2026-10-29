@@ -1,0 +1,5 @@
+# Copiar como config/database.properties (ignorado por Git).
+# Conserva el puerto y usuario de tu conexión original.
+clinica.url=jdbc:mysql://127.0.0.1:15327/veterinaria?useSSL=false&connectionTimeZone=LOCAL&allowPublicKeyRetrieval=true&characterEncoding=UTF-8&connectTimeout=5000&socketTimeout=15000
+clinica.usuario=YAXON
+clinica.clave=

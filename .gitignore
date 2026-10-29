@@ -1,0 +1,6 @@
+/target/
+/config/database.properties
+*.log
+/nbproject/private/
+/.idea/
+*.iml
